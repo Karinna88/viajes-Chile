@@ -10,3 +10,15 @@ body {
 .card {
     border: none;
 }
+
+.iconos {
+    text-align: right;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
