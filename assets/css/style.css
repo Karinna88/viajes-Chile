@@ -22,3 +22,9 @@ a:link, a:visited, a:active {
 a {
     color: white;
 }
+
+.nav-black {
+    background-color: #000;
+    opacity: 0.9;
+    color: white;
+}
